@@ -117,7 +117,7 @@
 
 ## 开发与扩展
 
-（1）继承 VideoInput.etCurrentFrame() 接口回调每一帧画面  
+（1）继承 VideoInput.getCurrentFrame() 接口回调每一帧画面  
 （2）封装 ControlOutput 接口提供游戏内每个可交互的独立操作（例如备战、开局、开火、打药等）  
 （3）在可交互 UI 管理器 UiComponentManager 中注册需要识别的组件对象（按钮、道具等）  
 （4）封装组件对象的状态以及规则触发处理器（识别到 A 状态时触发规则 B，或每隔一会儿执行一下 C 等）  

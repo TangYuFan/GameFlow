@@ -134,3 +134,9 @@
 - 用户应自行承担因使用本项目可能带来的法律风险和账号安全风险；
 - 开发者不对因使用本项目产生的任何直接或间接损失承担责任；
 - 请确保遵守相关法律法规及游戏厂商的使用协议和服务条款。
+- 本项目已采用 MIT License 进行开源，已在 [LICENSE](LICENSE) 文件中说明，并包含免责和使用条款，请在使用前仔细阅读。
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
